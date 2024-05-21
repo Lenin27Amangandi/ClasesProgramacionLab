@@ -4,6 +4,5 @@ public class App {
         Cliente oCl = new Cliente();
         Cajero oCa = new Cajero();
         Supervisor oSu = new Supervisor();
-
     }
 }
