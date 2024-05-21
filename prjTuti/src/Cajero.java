@@ -1,4 +1,4 @@
-public class Cajero {
+public class Cajero extends Persona{
 
 private String usuario;
 private String clave;
