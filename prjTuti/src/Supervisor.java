@@ -1,4 +1,8 @@
-public class Supervisor extends Cajero {
+public class Supervisor  {
+
+    public Supervisor() {
+        super();
+    }
 
     private String codigoAutorizacion;
 

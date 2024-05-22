@@ -4,6 +4,11 @@ private String usuario;
 private String clave;
 
 
+public Cajero (String calve, String usuario){
+
+
+}
+
 public String getUsuario() {
     return usuario;
 }
